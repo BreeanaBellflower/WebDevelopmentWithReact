@@ -1,3 +1,7 @@
+# Following the tutorial:
+
+https://github.com/BreeanaProffit/WebDevelopmentWithReact/blob/main/Web%20Development%20React%20JS.pdf 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
