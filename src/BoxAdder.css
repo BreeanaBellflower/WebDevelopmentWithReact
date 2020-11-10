@@ -1,0 +1,9 @@
+.form-container {
+    position: absolute;
+    top: 5%;
+    left: 10%;
+}
+
+.form-container > * {
+    margin-right: 10px;
+}

@@ -1,0 +1,6 @@
+.coloredBox {
+    width: 22%;
+    height: 200px;
+    margin: 10px 1%;
+    border: 2px solid black;
+}
