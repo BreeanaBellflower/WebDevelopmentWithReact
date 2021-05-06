@@ -8,7 +8,7 @@ import './App.css';
 function App() {
   return (
     <Router>
-      <FunctionalNav/>
+      <FunctionalNav title={"Functional Navbar"}/>
       <Switch>
         <Route exact path="/">
           <GridBox></GridBox>
