@@ -1,6 +1,6 @@
 import React from 'react';
 import GridBox from './GridBox';
-import Nav from './Nav';
+import FunctionalNav from './FunctionalNav';
 import About from './About';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import './App.css';
@@ -8,7 +8,7 @@ import './App.css';
 function App() {
   return (
     <Router>
-      <Nav/>
+      <FunctionalNav/>
       <Switch>
         <Route exact path="/">
           <GridBox></GridBox>
